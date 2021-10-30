@@ -17,12 +17,12 @@ Other hobbies: Member of a musical group🎸, instruments: bass guitar or synthe
  <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/basilia.jpg" />
 </p><br>
-Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.
+Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.<br>
  <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/coach.jpg" />
 </p><br>
 Also working in my spare time as a volunteer at a 🦴 dog shelter: https://www.instagram.com/dog_family.tln/
- <p align="center">
+<br> <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/Vv6UIIXAJQ4.jpg" />
 </p>
 <br>
@@ -32,7 +32,7 @@ There are really few repositories, but there are sooooo many files.<br>
 @Selfeducation-Programming@ https://github.com/aleksei-stsigartsov/Selfeducation-Programming <br>
 @Old-Beginning-In-Programming@ https://github.com/aleksei-stsigartsov/Old-Beginnings-In-Programming <br>
 @Educational-Projects@ https://github.com/aleksei-stsigartsov/Educational-Projects 
- <p align="center">
+<>br <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/cute.jpg" />
 </p><br>
 
