@@ -12,7 +12,7 @@ I am CEO and Founder of beginner video production 🎬 "A2B Projects", we shoot 
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/production.jpg" />
 </p>
 You can take a look at our creations by clicking on this social media link: https://www.instagram.com/a2b_projects/
-<br>
+<br><br><br>
 Other hobbies: Member of a musical group🎸, instruments: bass guitar or synthesizer🎹. 
  <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/basilia.jpg" />
