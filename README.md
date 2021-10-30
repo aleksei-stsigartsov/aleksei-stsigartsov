@@ -12,20 +12,20 @@ I am CEO and Founder of beginner video production 🎬 "A2B Projects", we shoot 
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/production.jpg" />
 </p>
 You can take a look at our creations by clicking on this social media link: https://www.instagram.com/a2b_projects/
-<br><br><br>
-Other hobbies:<br><br>
+<br><br>
+Other hobbies:<br>
 Member of a musical group🎸, instruments: bass guitar or synthesizer🎹. <br>
  <br><p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/basilia.jpg" />
 </p>
-Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.
+Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.<br>
 <br> <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/coach.jpg" />
-</p><br>
-Actor in the film industry🤡.<br>
+</p>
+Actor in the film industry🤡.<br><br>
 <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/actor.jpg" />
-</p><br>
+</p>
 
 Also working in my spare time as a volunteer at a 🦴 dog shelter: https://www.instagram.com/dog_family.tln/ <br>
 <p align="center">
