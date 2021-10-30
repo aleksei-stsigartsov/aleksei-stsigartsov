@@ -20,12 +20,18 @@ Other hobbies: Member of a musical group🎸, instruments: bass guitar or synthe
 Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.<br>
 <br> <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/coach.jpg" />
-</p><br>
+</p><br><br>
+Actor in the film industry🤡.<br><br>
+<p align="center">
+ <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/actor.jpg" />
+</p><br><br>
+
 Also working in my spare time as a volunteer at a 🦴 dog shelter: https://www.instagram.com/dog_family.tln/ <br>
 <br><p align="center">
- <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/Vv6UIIXAJQ4.jpg" />
+ <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/dog.jpg" />
 </p>
 <br>
+
 - 🌱 I’m currently learning mostly JavaScript, but also started working on learning the ReactJS library. <br>
 However, this is just the tip of the iceberg that is interesting to me, I have studied and study a lot of different things, you can see more details in my repositories. <br>
 There are really few repositories, but there are sooooo many files.<br>
