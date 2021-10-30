@@ -2,34 +2,34 @@
 I’m Aleksei Stsigartsov a novice programmer from Estonia/living in Tallinn. <br>
 Polytechnic School student. Vocation: Software Developer
 <p align="center">
- <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/me.jpg" />
+ <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/me.jpg" />
 </p>
 
 - 👀 I’m interested in web development industry (front-end), but programming is one of my activities lying to my heart.<br>
 Not afraid to describe me, as also an active creative artist🎨, full of kindness youngster❤, and athletic person👟!<br><br>
 I am CEO and Founder of beginner video production 🎬 "A2B Projects", we shoot charity projects, advertisements, short films and implement all interesting ideas.
 <p align="center">
- <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/production.jpg" />
+ <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/production.jpg" />
 </p>
 You can take a look at our creations by clicking on this social media link: https://www.instagram.com/a2b_projects/
 <br><br>
 Other hobbies:<br>
 Member of a musical group🎸, instruments: bass guitar or synthesizer🎹. <br>
  <br><p align="center">
- <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/basilia.jpg" />
+ <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/basilia.jpg" />
 </p>
 Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.<br>
 <br> <p align="center">
- <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/coach.jpg" />
+ <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/coach.jpg" />
 </p>
 Actor in the film industry🤡.<br><br>
 <p align="center">
- <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/actor.jpg" />
+ <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/actor.jpg" />
 </p>
 
 Also working in my spare time as a volunteer at a 🦴 dog shelter: https://www.instagram.com/dog_family.tln/ <br>
 <p align="center">
- <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/dog.jpg" />
+ <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/dog.jpg" />
 </p>
 <br>
 
