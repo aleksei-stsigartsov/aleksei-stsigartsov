@@ -39,7 +39,8 @@ There are really few repositories, but there are sooooo many files.<br>
 @Selfeducation-Programming@ https://github.com/aleksei-stsigartsov/Selfeducation-Programming <br>
 @Old-Beginning-In-Programming@ https://github.com/aleksei-stsigartsov/Old-Beginnings-In-Programming <br>
 @Educational-Projects@ https://github.com/aleksei-stsigartsov/Educational-Projects <br>
-<br><p align="center">
+<br>
+<p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/cute.jpg" />
 </p><br>
 
