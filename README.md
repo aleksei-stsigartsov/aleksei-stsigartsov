@@ -2,7 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap" rel="stylesheet">
 </head><body>
- <div style="font-family: 'Courier Prime', monospace;">
+ <div style="font-family: 'Courier Prime', monospace;"><pre style="font-family: 'Courier Prime', monospace;">
 
 - 👋 Hello there!<br>
 I’m Aleksei Stsigartsov a novice programmer from Estonia/living in Tallinn. <br>
@@ -60,6 +60,6 @@ More coming soon...
 
 - 📫 My email: aleksei.stsigartsov@gmail.com
 Open with suggestions!
-
+<pre>
 </div> </body>
 
