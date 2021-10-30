@@ -18,17 +18,17 @@ Member of a musical group🎸, instruments: bass guitar or synthesizer🎹. <br>
  <br><p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/basilia.jpg" />
 </p>
-Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.<br>
+Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.
 <br> <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/coach.jpg" />
 </p><br>
-Actor in the film industry🤡.<br><br>
+Actor in the film industry🤡.<br>
 <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/actor.jpg" />
 </p><br>
 
 Also working in my spare time as a volunteer at a 🦴 dog shelter: https://www.instagram.com/dog_family.tln/ <br>
-<br><p align="center">
+<p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/dog.jpg" />
 </p>
 <br>
