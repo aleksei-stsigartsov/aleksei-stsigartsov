@@ -1,9 +1,8 @@
 <head>
- <style>
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap');
-</style>
 </head><body>
- <div style="font-family: 'Courier Prime', monospace;">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap');
+</style> <div style="font-family: 'Courier Prime', monospace;">
 
 - 👋 Hello there!<br>
 I’m Aleksei Stsigartsov a novice programmer from Estonia/living in Tallinn. <br>
