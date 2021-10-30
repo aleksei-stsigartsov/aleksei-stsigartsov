@@ -1,11 +1,11 @@
-- 👋 Hello there!
-I’m Aleksei Stsigartsov a novice programmer from Estonia/living in Tallinn.
+- 👋 Hello there!<br>
+I’m Aleksei Stsigartsov a novice programmer from Estonia/living in Tallinn. <br>
 Polytechnic School student. Vocation: Software Developer
 <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/me.jpg" />
 </p>
 
-- 👀 I’m interested in web development industry (front-end), but programming is one of my activities lying to my heart.
+- 👀 I’m interested in web development industry (front-end), but programming is one of my activities lying to my heart.<br>
 Not afraid to describe me, as also an active creative artist🎨, full of kindness youngster❤, and athletic person👟!<br><br>
 I am CEO and Founder of beginner video production 🎬 "A2B Projects", we shoot charity projects, advertisements, short films and implement all interesting ideas.
 <p align="center">
