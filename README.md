@@ -17,15 +17,15 @@ Other hobbies:<br><br>
 Member of a musical group🎸, instruments: bass guitar or synthesizer🎹. <br>
  <br><p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/basilia.jpg" />
-</p><br>
+</p>
 Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.<br>
 <br> <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/coach.jpg" />
-</p><br><br>
+</p><br>
 Actor in the film industry🤡.<br><br>
 <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/actor.jpg" />
-</p><br><br>
+</p><br>
 
 Also working in my spare time as a volunteer at a 🦴 dog shelter: https://www.instagram.com/dog_family.tln/ <br>
 <br><p align="center">
