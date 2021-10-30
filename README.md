@@ -26,8 +26,8 @@ Also working in my spare time as a volunteer at a 🦴 dog shelter: https://www.
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/Vv6UIIXAJQ4.jpg" />
 </p>
 <br>
-- 🌱 I’m currently learning mostly JavaScript, but also started working on learning the ReactJS library.
-However, this is just the tip of the iceberg that is interesting to me, I have studied and study a lot of different things, you can see more details in my repositories.
+- 🌱 I’m currently learning mostly JavaScript, but also started working on learning the ReactJS library. <br>
+However, this is just the tip of the iceberg that is interesting to me, I have studied and study a lot of different things, you can see more details in my repositories. <br>
 There are really few repositories, but there are sooooo many files.<br>
 @Selfeducation-Programming@ https://github.com/aleksei-stsigartsov/Selfeducation-Programming <br>
 @Old-Beginning-In-Programming@ https://github.com/aleksei-stsigartsov/Old-Beginnings-In-Programming <br>
