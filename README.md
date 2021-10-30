@@ -14,15 +14,15 @@ I am CEO and Founder of beginner video production 🎬 "A2B Projects", we shoot 
 You can take a look at our creations by clicking on this social media link: https://www.instagram.com/a2b_projects/
 <br><br><br>
 Other hobbies: Member of a musical group🎸, instruments: bass guitar or synthesizer🎹. 
- <p align="center">
+ <br><p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/basilia.jpg" />
 </p><br>
 Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.<br>
- <p align="center">
+<br> <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/coach.jpg" />
 </p><br>
-Also working in my spare time as a volunteer at a 🦴 dog shelter: https://www.instagram.com/dog_family.tln/
-<br> <p align="center">
+Also working in my spare time as a volunteer at a 🦴 dog shelter: https://www.instagram.com/dog_family.tln/ <br>
+<br><p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/Vv6UIIXAJQ4.jpg" />
 </p>
 <br>
@@ -31,8 +31,8 @@ However, this is just the tip of the iceberg that is interesting to me, I have s
 There are really few repositories, but there are sooooo many files.<br>
 @Selfeducation-Programming@ https://github.com/aleksei-stsigartsov/Selfeducation-Programming <br>
 @Old-Beginning-In-Programming@ https://github.com/aleksei-stsigartsov/Old-Beginnings-In-Programming <br>
-@Educational-Projects@ https://github.com/aleksei-stsigartsov/Educational-Projects 
-<>br <p align="center">
+@Educational-Projects@ https://github.com/aleksei-stsigartsov/Educational-Projects <br>
+<br><p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/cute.jpg" />
 </p><br>
 
@@ -43,6 +43,8 @@ I advise you to look at my other projects that are not related to study, located
 @Play-Arena-Website@ https://github.com/aleksei-stsigartsov/Play-Arena-Website 
 More coming soon...
 <br>
+
 - 📫 My email: aleksei.stsigartsov@gmail.com
+Open with suggestions!
 
 
