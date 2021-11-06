@@ -22,7 +22,7 @@ Working as a children's/adult's group and individual coach🏀 in the Play Arena
 <br> <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/coach.jpg" />
 </p>
-Actor in the film industry🤡.<br><br>
+Trying mysel as an actor in the own film industry🤡.<br><br>
 <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/actor.jpg" />
 </p>
@@ -48,7 +48,7 @@ There are really few repositories, but there are sooooo many files.<br>
 I advise you to look at my other projects that are not related to study, located in directories <br>
 @Dog-Selter-Website@ https://github.com/aleksei-stsigartsov/Dog-Shelter-Website <br>
 @Timetable-With-Promo-Video-Player@ https://github.com/aleksei-stsigartsov/Timetable-With-Promo-Video-Player <br>
-@Play-Arena-Website@ https://github.com/aleksei-stsigartsov/Play-Arena-Website 
+@Play-Arena-Website@ https://github.com/aleksei-stsigartsov/Play-Arena-Website <br>
 More coming soon...
 <br>
 
