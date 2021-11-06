@@ -7,7 +7,7 @@ Polytechnic School student. Vocation: Software Developer
 
 - 👀 I’m interested in web development industry (front-end), but programming is one of my activities lying to my heart.<br>
 Not afraid to describe me, as also an active creative artist🎨, full of kindness youngster❤, and athletic person👟!<br><br>
-I am CEO and Founder of beginner video production 🎬 "A2B Projects", we shoot charity projects, advertisements, short films and implement all interesting ideas.
+I am CEO and Founder, sometimes actor of beginner video production 🎬 "A2B Projects", we shoot charity projects, advertisements, short films and implement all interesting ideas.
 <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/production.jpg" />
 </p>
@@ -21,10 +21,6 @@ Member of a musical group🎸, instruments: bass guitar or synthesizer🎹. <br>
 Working as a children's/adult's group and individual coach🏀 in the Play Arena sports complex and the Altius basketball sports school.<br>
 <br> <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/coach.jpg" />
-</p>
-Trying mysel as an actor in the own film industry🤡.<br><br>
-<p align="center">
- <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/actor.jpg" />
 </p>
 
 Also working in my spare time as a volunteer at a 🦴 dog shelter: https://www.instagram.com/dog_family.tln/ <br>
