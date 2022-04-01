@@ -38,7 +38,7 @@ There are really few repositories, but there are sooooo many files.<br>
 <br>
 <p align="center">
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/cute.jpg" />
- <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/morra.jpg" />
+ <img style="width:350px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/morra.jpg" />
 </p><br>
 
 - 💞️ I’m looking to collaborate a new ideas, realization of tasks for the good of society or just for the sake of nothing.
