@@ -40,7 +40,7 @@ There are really few repositories, but there are sooooo many files.<br>
  <img style="width:488px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/cute.jpg" />
  <img style="width:380px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/morra.jpg" />
 </p>
-<p style="text-align:center">me and my kitties</p><br>
+<p style="text-align:center">me and my lovely kitties</p><br>
 
 - 💞️ I’m looking to collaborate a new ideas, realization of tasks for the good of society or just for the sake of nothing.
 I advise you to look at my other projects that are not related to study, located in directories <br>
