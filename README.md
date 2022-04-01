@@ -37,7 +37,7 @@ There are really few repositories, but there are sooooo many files.<br>
 @Educational-Projects@ https://github.com/aleksei-stsigartsov/Educational-Projects <br>
 <br>
 <p align="center">
- <img style="width:485px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/cute.jpg" />
+ <img style="width:488px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/cute.jpg" />
  <img style="width:380px;" src="https://github.com/aleksei-stsigartsov/store-/blob/master/morra.jpg" />
 </p><br>
 
