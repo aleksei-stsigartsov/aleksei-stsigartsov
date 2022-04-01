@@ -42,9 +42,11 @@ There are really few repositories, but there are sooooo many files.<br>
 
 - 💞️ I’m looking to collaborate a new ideas, realization of tasks for the good of society or just for the sake of nothing.
 I advise you to look at my other projects that are not related to study, located in directories <br>
+@Play-Arena-Website@ https://github.com/aleksei-stsigartsov/Play-Arena-Website <br>
 @Dog-Selter-Website@ https://github.com/aleksei-stsigartsov/Dog-Shelter-Website <br>
 @Timetable-With-Promo-Video-Player@ https://github.com/aleksei-stsigartsov/Timetable-With-Promo-Video-Player <br>
-@Play-Arena-Website@ https://github.com/aleksei-stsigartsov/Play-Arena-Website <br>
+@Draw-n-Guess-Game@ https://github.com/aleksei-stsigartsov/Draw-n-Guess-Game <br>
+@Evenly-Web-App@ https://github.com/aleksei-stsigartsov/Evenly-Web-App <br>
 More coming soon...
 <br>
 
