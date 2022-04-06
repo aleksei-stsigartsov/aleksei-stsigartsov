@@ -5,7 +5,7 @@ Polytechnic School student. Vocation: Software Developer
  <img style="width:500px;" src="https://github.com/aleksei-stsigartsov/local_storage/blob/master/me.jpg" />
 </p>
 
-- 👀 I’m interested in web development industry (front-end), but programming is one of my activities lying to my heart.<br>
+- 👀 I’m interested in web development industry (front-end) & programming is one of my activities lying to my heart.<br>
 Not afraid to describe me, as also an active creative artist🎨, full of kindness youngster❤, and athletic person👟!<br><br>
 I am CEO and Founder, sometimes actor of beginner video production 🎬 "A2B Projects", we shoot charity projects, advertisements, short films and implement all interesting ideas.
 <p align="center">
