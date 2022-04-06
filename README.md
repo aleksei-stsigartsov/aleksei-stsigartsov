@@ -52,6 +52,6 @@ I advise you to look at my other projects that are not related to study, located
 More coming soon...
 <br>
 
-- 📫 My email: aleksei.stsigartsov@gmail.com
+- 📫 My email: aleksei.stsigartsov@gmail.com <br>
 Open with suggestions!
 
